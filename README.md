@@ -2,7 +2,6 @@
   <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="80%" />
 </p>
 
-# Shreya_046
 <h1 align="center">Hey, I'm Shreya 👋</h1>
 <h3 align="center">Building AI that interacts like humans ⚡</h3>  
 
