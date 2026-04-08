@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="100%" />
+  <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="80%" />
 </p>
 
 # Shreya_046
