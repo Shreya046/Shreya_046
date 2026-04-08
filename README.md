@@ -28,6 +28,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Shreya046/Shreya_046/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya046&show_icons=true&theme=radical)
