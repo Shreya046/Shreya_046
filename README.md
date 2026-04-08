@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="C:\Users\user\Downloads\giphy.gif" />
+  <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="100%" />
 </p>
+
 # Shreya_046
 <h1 align="center">Hey, I'm Shreya 👋</h1>
 <h3 align="center">Building AI that interacts like humans ⚡</h3>  
