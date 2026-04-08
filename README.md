@@ -2,17 +2,19 @@
   <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Shreya 👋</h1>
-<h3 align="center">⚡ Building AI that interacts like humans</h3>
+<br><br>
+
+<h1 align="center">
+  <span style="color:#00F7FF;">Hey, I'm Shreya 👋</span>
+</h1>
+
+<h3 align="center">
+  ⚡ <span style="color:#00F7FF;">Building AI that interacts like humans</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Data+Science+Enthusiast;Building+Smart+Systems&center=true&color=00F7FF&size=22">
-</p> 
-
-## ⚡ About Me
-- 🧠 AI & Data Science Student   
-- 🎯 Focused on real-world impactful projects  
-- 💡 Turning ideas into intelligent systems
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Data+Science+Enthusiast;Building+Smart+Systems&center=true&color=00F7FF&size=24&pause=1000">
+</p>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
