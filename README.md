@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="C:\Users\user\Downloads\giphy.gif" />
+</p>
 # Shreya_046
 <h1 align="center">Hey, I'm Shreya 👋</h1>
 <h3 align="center">Building AI that interacts like humans ⚡</h3>  
