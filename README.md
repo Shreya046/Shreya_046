@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="80%" />
+  <img src="https://github.com/Shreya046/Shreya_046/raw/main/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Shreya 👋</h1>
-<h3 align="center">Building AI that interacts like humans ⚡</h3>  
+<h3 align="center">⚡ Building AI that interacts like humans</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Data+Science+Enthusiast;Building+Smart+Systems&center=true&color=00F7FF&size=22">
+</p> 
 
 ## ⚡ About Me
 - 🧠 AI & Data Science Student   
